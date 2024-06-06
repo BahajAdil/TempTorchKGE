@@ -6,6 +6,9 @@ This repository contains an adaptation of  [TorchKGE](https://torchkge.readthedo
 
 The files main_x.py contain different examples of different models training and evaluation.
 
+# Citation
+If you find this library useful in your research you can site the following papers:
+
     @article{fettach2024jobedkg,
       title={JobEdKG: An uncertain knowledge graph-based approach for recommending online courses and predicting in-demand skills based on career choices},
       author={Fettach, Yousra and Bahaj, Adil and Ghogho, Mounir},
